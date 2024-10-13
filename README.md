@@ -92,8 +92,8 @@ I am also well-versed in 🌐 **networking principles**, which complement my und
 ## 📫 **How to Reach Me**  
 Feel free to reach out if you have any questions or collaboration ideas!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayesh-chamikara)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@Ayeshchamikara)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayesh-chamikara)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ayeshchamikara63)  
 
 
 ---
